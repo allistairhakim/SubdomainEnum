@@ -14,8 +14,8 @@ cd SubdomainEnum
 
 1. Changes SUFFIX to the website you're trying to enumerate
 2. Changes VALID_STATUS_CODES to status codes you want to keep a list of
-3. If needed changes MAX_WORKER_THREADS to change number of threads wanted (OPTIONAL)
-4. Change subdomain wordlist to your liking (OPTIONAL)
+3. If needed change MAX_WORKER_THREADS to change number of threads wanted (OPTIONAL)
+4. Change subdomain wordlist to your liking by changing PREFIX_WORDLIST_URL (OPTIONAL)
 5. Run program
 
 **Contributing**
