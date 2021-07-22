@@ -1,0 +1,2 @@
+[2021-07-20 12:45:04] [detect-all-takeovers:unbounce] [http] [high] https://get.acorns.com
+[2021-07-20 12:45:04] [detect-all-takeovers:unbounce] [http] [high] https://try.acorns.com

@@ -1,0 +1,5 @@
+[2021-07-21 16:20:53] [detect-all-takeovers:unbounce] [http] [high] https://try.acorns.com
+[2021-07-21 16:22:13] [detect-all-takeovers:unbounce] [http] [high] https://try.acorns.com
+[2021-07-21 16:23:47] [detect-all-takeovers:unbounce] [http] [high] https://ww1.bugcrowd.com
+[2021-07-21 17:38:53] [detect-all-takeovers:hubspot] [http] [high] https://apidoc.planethoster.com
+[2021-07-21 17:38:53] [detect-all-takeovers:hubspot] [http] [high] https://asdbjk.google.com
