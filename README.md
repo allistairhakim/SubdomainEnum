@@ -1,4 +1,4 @@
-# Subdomain Enumerator
+# Automatic Subdomain Enumerator and Takeover
 
 **Installation**
 
@@ -12,7 +12,8 @@ cd SubdomainEnum
 
 **Usage**
 
-imma update this later
+Essentially uses a wordlist of websites, enumerates subdomains for each, and scans each of the valid ones for takeovers, then updates you if it finds anything then repeats.
+Stopped updating this, feel free to use but expect to have to edit some stuff if it doesn't work.
 
 **Contributing**
 
